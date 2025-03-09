@@ -22,6 +22,20 @@ Este é um aplicativo simples desenvolvido em Flutter com o objetivo de aprender
 - Formulário para adicionar novas transferências.
 - Navegação entre telas.
 
+## Resultados
+
+<div align="center">
+
+<img src="./images/Screenshot from 2025-03-09 19-35-32.png" alt="Minha Figura" style="width:300">
+<p> Tela Inicial para Listagem das Transferencias </p>
+
+<img src="./images/Screenshot from 2025-03-09 19-35-42.png" alt="Minha Figura" style="width:300">
+<p> Tela de Formulario de registro de transferencia </p>
+
+<img src="./images/Screenshot from 2025-03-09 19-38-40.png" alt="Minha Figura" style="width:300">
+<p> Tela Inicial com as transferencias criadas </p>
+</div>
+
 ## Conceitos Aprendidos
 - Estrutura de um projeto Flutter.
 - Sintaxe e características da linguagem Dart.
